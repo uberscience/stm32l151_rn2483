@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="6.3.1 -mcpu=cortex-m3 -mthumb -g2 -Map=STM32L_FINAL_FIRMWARE.map -O0 --gc-sections -LC:/pLORA/STM32L_FINAL_FIRMWARE -TC:/pLORA/STM32L_FINAL_FIRMWARE/stm32l151cbtx_flash.ld -g">
+      <target file="STM32L_FINAL_FIRMWARE.elf" lastModified="16119fac477">
+         <source file="..\obj\assembling_data_app.o" lastModified="16113946f46"/>
+         <source file="..\obj\stm32l1xx_aes_util.o" lastModified="16113945d2f"/>
+         <source file="..\obj\stm32l1xx_tim.o" lastModified="16113947e27"/>
+         <source file="..\obj\terminal_app.o" lastModified="161193ed5a3"/>
+         <source file="..\obj\rn2483_drv.o" lastModified="161193ecce2"/>
+         <source file="..\obj\stm32l1xx_rcc.o" lastModified="161139448a0"/>
+         <source file="..\obj\stm32l1xx_flash_ramfunc.o" lastModified="16113944c91"/>
+         <source file="..\obj\stm32l1xx_lcd.o" lastModified="16113945909"/>
+         <source file="..\obj\stm32l1xx_syscfg.o" lastModified="1611394613b"/>
+         <source file="..\obj\stm32l1xx_exti.o" lastModified="16113944298"/>
+         <source file="..\obj\misc.o" lastModified="1611394755c"/>
+         <source file="..\obj\stm32l1xx_dma.o" lastModified="16113946540"/>
+         <source file="..\obj\stm32l1xx_iwdg.o" lastModified="16113946b66"/>
+         <source file="..\obj\system_stm32l1xx.o" lastModified="16113944a98"/>
+         <source file="..\obj\stm32l1xx_rtc.o" lastModified="161139477a2"/>
+         <source file="..\obj\uart_drv.o" lastModified="16113942d3a"/>
+         <source file="..\obj\stm32l1xx_crc.o" lastModified="16113944497"/>
+         <source file="..\obj\conversions_app.o" lastModified="161139435d2"/>
+         <source file="..\obj\main_app_mac.o" lastModified="161193ed141"/>
+         <source file="..\obj\logger_app.o" lastModified="161139452c4"/>
+         <source file="..\obj\delay_drv.o" lastModified="16113945b13"/>
+         <source file="..\obj\stm32l1xx_dbgmcu.o" lastModified="16113945f33"/>
+         <source file="..\obj\main.o" lastModified="16119f619e1"/>
+         <source file="..\obj\stm32l1xx_opamp.o" lastModified="16113943a0b"/>
+         <source file="..\obj\stm32l1xx_usart.o" lastModified="16113946965"/>
+         <source file="..\obj\stm32l1xx_adc.o" lastModified="161139450c6"/>
+         <source file="..\obj\gpio_drv.o" lastModified="16113946743"/>
+         <source file="..\obj\stm32l1xx_gpio.o" lastModified="16113943159"/>
+         <source file="..\obj\eeprom_drv.o" lastModified="16113944690"/>
+         <source file="..\obj\stm32l1xx_sdio.o" lastModified="161139456f3"/>
+         <source file="..\obj\stm32l1xx_spi.o" lastModified="16113946d6f"/>
+         <source file="..\obj\startup_stm32l151xb.o" lastModified="16113947e7c"/>
+         <source file="..\obj\rtc_drv.o" lastModified="161139479a5"/>
+         <source file="..\obj\main_app_terminal.o" lastModified="16119fac1d3"/>
+         <source file="..\obj\stm32l1xx_aes.o" lastModified="1611394409c"/>
+         <source file="..\obj\stm32l1xx_comp.o" lastModified="16113942f3d"/>
+         <source file="..\obj\stm32l1xx_flash.o" lastModified="16113943e82"/>
+         <source file="..\obj\stm32l1xx_i2c.o" lastModified="1611394715c"/>
+         <source file="..\obj\stm32l1xx_pwr.o" lastModified="161139437ef"/>
+         <source file="..\obj\stm32l1xx_fsmc.o" lastModified="16113948074"/>
+         <source file="..\obj\stm32l1xx_dac.o" lastModified="16113943c2b"/>
+         <source file="..\obj\exti_drv.o" lastModified="16113947362"/>
+         <source file="..\obj\stm32l1xx_wwdg.o" lastModified="1611394633a"/>
+      </target>
+   </processor>
+</history>

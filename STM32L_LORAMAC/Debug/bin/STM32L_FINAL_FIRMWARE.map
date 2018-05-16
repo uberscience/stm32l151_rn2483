@@ -1,0 +1,1388 @@
+Archive member included to satisfy reference by file (symbol)
+
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+                              c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (exit)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+                              c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o) (_global_impure_ptr)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+                              c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (__libc_init_array)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+                              c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o (memset)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+                              c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o) (__call_exitprocs)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+                              c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o) (atexit)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+                              c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+                              c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o) (__retarget_lock_acquire_recursive)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+                              c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o) (__register_exitproc)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+                              ..\obj\conversions_app.o (strlen)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strstr.o)
+                              ..\obj\uart_drv.o (strstr)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memchr-stub.o)
+                              c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strstr.o) (memchr)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+                              c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strstr.o) (memcmp)
+c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strchr.o)
+                              c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strstr.o) (strchr)
+
+Allocating common symbols
+Common symbol       size              file
+
+__lock___atexit_recursive_mutex
+                    0x1               c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+logger_data         0x4               ..\obj\terminal_app.o
+__lock___arc4random_mutex
+                    0x1               c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+last_data_addr      0x4               ..\obj\terminal_app.o
+usart2RXData        0x100             ..\obj\terminal_app.o
+__lock___env_recursive_mutex
+                    0x1               c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+__lock___sinit_recursive_mutex
+                    0x1               c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+usart2_data_counter
+                    0x1               ..\obj\terminal_app.o
+newdata             0x1               ..\obj\terminal_app.o
+__lock___malloc_recursive_mutex
+                    0x1               c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+rn2483_conn_cfg     0x4               ..\obj\terminal_app.o
+write_data_addr     0x4               ..\obj\terminal_app.o
+usart1_data_counter
+                    0x1               ..\obj\terminal_app.o
+usart1RXData        0x100             ..\obj\terminal_app.o
+__lock___at_quick_exit_mutex
+                    0x1               c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+__lock___dd_hash_mutex
+                    0x1               c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+__lock___tz_mutex   0x1               c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+__lock___sfp_recursive_mutex
+                    0x1               c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+
+Discarded input sections
+
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .data          0x00000000        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .text          0x00000000       0x74 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .debug_frame   0x00000000       0x2c c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x9c c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x34 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xe8 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x00000000       0x5c c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .debug_frame   0x00000000       0x20 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .debug_frame   0x00000000       0x34 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init
+                0x00000000        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_init_recursive
+                0x00000000        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close
+                0x00000000        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_close_recursive
+                0x00000000        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_acquire
+                0x00000000        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire
+                0x00000000        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_try_acquire_recursive
+                0x00000000        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text.__retarget_lock_release
+                0x00000000        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .debug_frame   0x00000000       0xb0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000       0x34 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x00000000       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 ..\obj\assembling_data_app.o
+ .data          0x00000000        0x0 ..\obj\assembling_data_app.o
+ .bss           0x00000000        0x0 ..\obj\assembling_data_app.o
+ .debug_line    0x00000000        0x0 ..\obj\assembling_data_app.o
+ .debug_str     0x00000000       0xa2 ..\obj\assembling_data_app.o
+ .comment       0x00000000       0x80 ..\obj\assembling_data_app.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\assembling_data_app.o
+ .text          0x00000000      0xa18 ..\obj\stm32l1xx_aes_util.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_aes_util.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_aes_util.o
+ .debug_info    0x00000000      0xc6e ..\obj\stm32l1xx_aes_util.o
+ .debug_abbrev  0x00000000      0x1c8 ..\obj\stm32l1xx_aes_util.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_aes_util.o
+ .debug_line    0x00000000      0x651 ..\obj\stm32l1xx_aes_util.o
+ .debug_str     0x00000000      0x372 ..\obj\stm32l1xx_aes_util.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_aes_util.o
+ .debug_frame   0x00000000      0x100 ..\obj\stm32l1xx_aes_util.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_aes_util.o
+ .text          0x00000000     0x16b4 ..\obj\stm32l1xx_tim.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_tim.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_tim.o
+ .debug_info    0x00000000     0x1972 ..\obj\stm32l1xx_tim.o
+ .debug_abbrev  0x00000000      0x1c1 ..\obj\stm32l1xx_tim.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_tim.o
+ .debug_line    0x00000000      0x581 ..\obj\stm32l1xx_tim.o
+ .debug_str     0x00000000      0xc47 ..\obj\stm32l1xx_tim.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_tim.o
+ .debug_frame   0x00000000      0xd14 ..\obj\stm32l1xx_tim.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_tim.o
+ .text          0x00000000      0x3e0 ..\obj\terminal_app.o
+ .data          0x00000000        0x0 ..\obj\terminal_app.o
+ .bss           0x00000000        0x0 ..\obj\terminal_app.o
+ .rodata        0x00000000      0x152 ..\obj\terminal_app.o
+ .data          0x00000000        0x0 ..\obj\rn2483_drv.o
+ .bss           0x00000000        0x0 ..\obj\rn2483_drv.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_rcc.o
+ .text          0x00000000        0x0 ..\obj\stm32l1xx_flash_ramfunc.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_flash_ramfunc.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_flash_ramfunc.o
+ .RamFunc       0x00000000      0x478 ..\obj\stm32l1xx_flash_ramfunc.o
+ .debug_info    0x00000000      0x47a ..\obj\stm32l1xx_flash_ramfunc.o
+ .debug_abbrev  0x00000000      0x1a1 ..\obj\stm32l1xx_flash_ramfunc.o
+ .debug_aranges
+                0x00000000       0x58 ..\obj\stm32l1xx_flash_ramfunc.o
+ .debug_ranges  0x00000000       0x48 ..\obj\stm32l1xx_flash_ramfunc.o
+ .debug_line    0x00000000      0x2c8 ..\obj\stm32l1xx_flash_ramfunc.o
+ .debug_str     0x00000000      0x3c9 ..\obj\stm32l1xx_flash_ramfunc.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_flash_ramfunc.o
+ .debug_frame   0x00000000      0x140 ..\obj\stm32l1xx_flash_ramfunc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_flash_ramfunc.o
+ .text          0x00000000      0x344 ..\obj\stm32l1xx_lcd.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_lcd.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_lcd.o
+ .debug_info    0x00000000      0x4d3 ..\obj\stm32l1xx_lcd.o
+ .debug_abbrev  0x00000000      0x1c4 ..\obj\stm32l1xx_lcd.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_lcd.o
+ .debug_line    0x00000000      0x2c0 ..\obj\stm32l1xx_lcd.o
+ .debug_str     0x00000000      0x415 ..\obj\stm32l1xx_lcd.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_lcd.o
+ .debug_frame   0x00000000      0x2c8 ..\obj\stm32l1xx_lcd.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_lcd.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_syscfg.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_syscfg.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_exti.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_exti.o
+ .data          0x00000000        0x0 ..\obj\misc.o
+ .bss           0x00000000        0x0 ..\obj\misc.o
+ .text          0x00000000      0x3f8 ..\obj\stm32l1xx_dma.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_dma.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_dma.o
+ .debug_info    0x00000000      0x482 ..\obj\stm32l1xx_dma.o
+ .debug_abbrev  0x00000000      0x180 ..\obj\stm32l1xx_dma.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_dma.o
+ .debug_line    0x00000000      0x2f5 ..\obj\stm32l1xx_dma.o
+ .debug_str     0x00000000      0x3c9 ..\obj\stm32l1xx_dma.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_dma.o
+ .debug_frame   0x00000000      0x1c8 ..\obj\stm32l1xx_dma.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_dma.o
+ .text          0x00000000       0xc4 ..\obj\stm32l1xx_iwdg.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_iwdg.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_iwdg.o
+ .debug_info    0x00000000      0x215 ..\obj\stm32l1xx_iwdg.o
+ .debug_abbrev  0x00000000      0x12c ..\obj\stm32l1xx_iwdg.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_iwdg.o
+ .debug_line    0x00000000      0x1fc ..\obj\stm32l1xx_iwdg.o
+ .debug_str     0x00000000      0x26e ..\obj\stm32l1xx_iwdg.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_iwdg.o
+ .debug_frame   0x00000000       0xf0 ..\obj\stm32l1xx_iwdg.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_iwdg.o
+ .bss           0x00000000        0x0 ..\obj\system_stm32l1xx.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_rtc.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_rtc.o
+ .data          0x00000000        0x0 ..\obj\uart_drv.o
+ .bss           0x00000000        0x0 ..\obj\uart_drv.o
+ .text          0x00000000       0xc8 ..\obj\stm32l1xx_crc.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_crc.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_crc.o
+ .debug_info    0x00000000      0x213 ..\obj\stm32l1xx_crc.o
+ .debug_abbrev  0x00000000      0x125 ..\obj\stm32l1xx_crc.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_crc.o
+ .debug_line    0x00000000      0x202 ..\obj\stm32l1xx_crc.o
+ .debug_str     0x00000000      0x24d ..\obj\stm32l1xx_crc.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_crc.o
+ .debug_frame   0x00000000       0xe8 ..\obj\stm32l1xx_crc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_crc.o
+ .bss           0x00000000        0x0 ..\obj\conversions_app.o
+ .text          0x00000000      0x308 ..\obj\main_app_mac.o
+ .data          0x00000000        0x0 ..\obj\main_app_mac.o
+ .bss           0x00000000        0x0 ..\obj\main_app_mac.o
+ .rodata        0x00000000       0xea ..\obj\main_app_mac.o
+ .debug_info    0x00000000      0xc43 ..\obj\main_app_mac.o
+ .debug_abbrev  0x00000000      0x1fe ..\obj\main_app_mac.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\main_app_mac.o
+ .debug_line    0x00000000      0x2f5 ..\obj\main_app_mac.o
+ .debug_str     0x00000000      0x731 ..\obj\main_app_mac.o
+ .comment       0x00000000       0x80 ..\obj\main_app_mac.o
+ .debug_frame   0x00000000       0x30 ..\obj\main_app_mac.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\main_app_mac.o
+ .data          0x00000000        0x0 ..\obj\logger_app.o
+ .bss           0x00000000        0x0 ..\obj\logger_app.o
+ .data          0x00000000        0x0 ..\obj\delay_drv.o
+ .bss           0x00000000        0x0 ..\obj\delay_drv.o
+ .text          0x00000000       0xe4 ..\obj\stm32l1xx_dbgmcu.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_dbgmcu.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_dbgmcu.o
+ .debug_info    0x00000000      0x1eb ..\obj\stm32l1xx_dbgmcu.o
+ .debug_abbrev  0x00000000       0xf1 ..\obj\stm32l1xx_dbgmcu.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_dbgmcu.o
+ .debug_line    0x00000000      0x1fb ..\obj\stm32l1xx_dbgmcu.o
+ .debug_str     0x00000000      0x242 ..\obj\stm32l1xx_dbgmcu.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_dbgmcu.o
+ .debug_frame   0x00000000       0xc8 ..\obj\stm32l1xx_dbgmcu.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_dbgmcu.o
+ .data          0x00000000        0x0 ..\obj\main.o
+ .bss           0x00000000        0x0 ..\obj\main.o
+ .text          0x00000000      0x3a4 ..\obj\stm32l1xx_opamp.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_opamp.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_opamp.o
+ .debug_info    0x00000000      0x324 ..\obj\stm32l1xx_opamp.o
+ .debug_abbrev  0x00000000      0x14c ..\obj\stm32l1xx_opamp.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_opamp.o
+ .debug_line    0x00000000      0x255 ..\obj\stm32l1xx_opamp.o
+ .debug_str     0x00000000      0x300 ..\obj\stm32l1xx_opamp.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_opamp.o
+ .debug_frame   0x00000000      0x170 ..\obj\stm32l1xx_opamp.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_opamp.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_usart.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_usart.o
+ .text          0x00000000      0xc30 ..\obj\stm32l1xx_adc.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_adc.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_adc.o
+ .debug_info    0x00000000      0xcb8 ..\obj\stm32l1xx_adc.o
+ .debug_abbrev  0x00000000      0x18f ..\obj\stm32l1xx_adc.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_adc.o
+ .debug_line    0x00000000      0x3e6 ..\obj\stm32l1xx_adc.o
+ .debug_str     0x00000000      0x7f7 ..\obj\stm32l1xx_adc.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_adc.o
+ .debug_frame   0x00000000      0x5fc ..\obj\stm32l1xx_adc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_adc.o
+ .data          0x00000000        0x0 ..\obj\gpio_drv.o
+ .bss           0x00000000        0x0 ..\obj\gpio_drv.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_gpio.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_gpio.o
+ .data          0x00000000        0x0 ..\obj\eeprom_drv.o
+ .bss           0x00000000        0x0 ..\obj\eeprom_drv.o
+ .text          0x00000000      0x4c0 ..\obj\stm32l1xx_sdio.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_sdio.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_sdio.o
+ .debug_info    0x00000000      0x807 ..\obj\stm32l1xx_sdio.o
+ .debug_abbrev  0x00000000      0x18a ..\obj\stm32l1xx_sdio.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_sdio.o
+ .debug_line    0x00000000      0x2ee ..\obj\stm32l1xx_sdio.o
+ .debug_str     0x00000000      0x642 ..\obj\stm32l1xx_sdio.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_sdio.o
+ .debug_frame   0x00000000      0x48c ..\obj\stm32l1xx_sdio.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_sdio.o
+ .text          0x00000000      0x6b8 ..\obj\stm32l1xx_spi.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_spi.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_spi.o
+ .debug_info    0x00000000      0x8f6 ..\obj\stm32l1xx_spi.o
+ .debug_abbrev  0x00000000      0x1a9 ..\obj\stm32l1xx_spi.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_spi.o
+ .debug_line    0x00000000      0x33d ..\obj\stm32l1xx_spi.o
+ .debug_str     0x00000000      0x5fe ..\obj\stm32l1xx_spi.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_spi.o
+ .debug_frame   0x00000000      0x3a0 ..\obj\stm32l1xx_spi.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_spi.o
+ .text          0x00000000       0x14 ..\obj\startup_stm32l151xb.o
+ .data          0x00000000        0x0 ..\obj\startup_stm32l151xb.o
+ .bss           0x00000000        0x0 ..\obj\startup_stm32l151xb.o
+ .data          0x00000000        0x0 ..\obj\rtc_drv.o
+ .bss           0x00000000        0x0 ..\obj\rtc_drv.o
+ .data          0x00000000        0x0 ..\obj\main_app_terminal.o
+ .bss           0x00000000        0x0 ..\obj\main_app_terminal.o
+ .text          0x00000000      0x3a8 ..\obj\stm32l1xx_aes.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_aes.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_aes.o
+ .debug_info    0x00000000      0x597 ..\obj\stm32l1xx_aes.o
+ .debug_abbrev  0x00000000      0x19a ..\obj\stm32l1xx_aes.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_aes.o
+ .debug_line    0x00000000      0x2c1 ..\obj\stm32l1xx_aes.o
+ .debug_str     0x00000000      0x44b ..\obj\stm32l1xx_aes.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_aes.o
+ .debug_frame   0x00000000      0x2cc ..\obj\stm32l1xx_aes.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_aes.o
+ .text          0x00000000      0x190 ..\obj\stm32l1xx_comp.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_comp.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_comp.o
+ .debug_info    0x00000000      0x280 ..\obj\stm32l1xx_comp.o
+ .debug_abbrev  0x00000000      0x162 ..\obj\stm32l1xx_comp.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_comp.o
+ .debug_line    0x00000000      0x269 ..\obj\stm32l1xx_comp.o
+ .debug_str     0x00000000      0x2b2 ..\obj\stm32l1xx_comp.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_comp.o
+ .debug_frame   0x00000000      0x120 ..\obj\stm32l1xx_comp.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_comp.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_flash.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_flash.o
+ .text          0x00000000      0x92c ..\obj\stm32l1xx_i2c.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_i2c.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_i2c.o
+ .debug_info    0x00000000      0xb07 ..\obj\stm32l1xx_i2c.o
+ .debug_abbrev  0x00000000      0x18f ..\obj\stm32l1xx_i2c.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_i2c.o
+ .debug_line    0x00000000      0x379 ..\obj\stm32l1xx_i2c.o
+ .debug_str     0x00000000      0x667 ..\obj\stm32l1xx_i2c.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_i2c.o
+ .debug_frame   0x00000000      0x530 ..\obj\stm32l1xx_i2c.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_i2c.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_pwr.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_pwr.o
+ .text          0x00000000      0x2b0 ..\obj\stm32l1xx_fsmc.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_fsmc.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_fsmc.o
+ .debug_info    0x00000000      0x32b ..\obj\stm32l1xx_fsmc.o
+ .debug_abbrev  0x00000000      0x140 ..\obj\stm32l1xx_fsmc.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_fsmc.o
+ .debug_line    0x00000000      0x2a6 ..\obj\stm32l1xx_fsmc.o
+ .debug_str     0x00000000      0x426 ..\obj\stm32l1xx_fsmc.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_fsmc.o
+ .debug_frame   0x00000000       0xb0 ..\obj\stm32l1xx_fsmc.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_fsmc.o
+ .text          0x00000000      0x424 ..\obj\stm32l1xx_dac.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_dac.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_dac.o
+ .debug_info    0x00000000      0x64d ..\obj\stm32l1xx_dac.o
+ .debug_abbrev  0x00000000      0x18f ..\obj\stm32l1xx_dac.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_dac.o
+ .debug_line    0x00000000      0x2c0 ..\obj\stm32l1xx_dac.o
+ .debug_str     0x00000000      0x455 ..\obj\stm32l1xx_dac.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_dac.o
+ .debug_frame   0x00000000      0x2ac ..\obj\stm32l1xx_dac.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_dac.o
+ .data          0x00000000        0x0 ..\obj\exti_drv.o
+ .bss           0x00000000        0x0 ..\obj\exti_drv.o
+ .text          0x00000000      0x12c ..\obj\stm32l1xx_wwdg.o
+ .data          0x00000000        0x0 ..\obj\stm32l1xx_wwdg.o
+ .bss           0x00000000        0x0 ..\obj\stm32l1xx_wwdg.o
+ .debug_info    0x00000000      0x257 ..\obj\stm32l1xx_wwdg.o
+ .debug_abbrev  0x00000000      0x153 ..\obj\stm32l1xx_wwdg.o
+ .debug_aranges
+                0x00000000       0x20 ..\obj\stm32l1xx_wwdg.o
+ .debug_line    0x00000000      0x20b ..\obj\stm32l1xx_wwdg.o
+ .debug_str     0x00000000      0x279 ..\obj\stm32l1xx_wwdg.o
+ .comment       0x00000000       0x80 ..\obj\stm32l1xx_wwdg.o
+ .debug_frame   0x00000000      0x134 ..\obj\stm32l1xx_wwdg.o
+ .ARM.attributes
+                0x00000000       0x33 ..\obj\stm32l1xx_wwdg.o
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strstr.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strstr.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strstr.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memchr-stub.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memchr-stub.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memchr-stub.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strchr.o)
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strchr.o)
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strchr.o)
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .eh_frame      0x00000000        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .jcr           0x00000000        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+ .text          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ .data          0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ .bss           0x00000000        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+RAM              0x20000000         0x00004000         xrw
+FLASH            0x08000000         0x00020000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+LOAD c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+LOAD c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m/crt0.o
+                0x20004000                _estack = 0x20004000
+                0x00000200                _Min_Heap_Size = 0x200
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x13c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x13c ..\obj\startup_stm32l151xb.o
+                0x08000000                g_pfnVectors
+                0x0800013c                . = ALIGN (0x4)
+
+.text           0x0800013c     0x7a94
+                0x0800013c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800013c       0x6c c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .text          0x080001a8      0x9c4 ..\obj\rn2483_drv.o
+                0x080001a8                rn2483_drv_pwr_on
+                0x08000218                rn2483_drv_wait_answer
+                0x08000274                rn2483_drv_join_gatevay
+                0x08000338                rn2483_drv_cfg_config_RN2483
+                0x080003f4                rn2483_drv_cfg_config_eeprom
+                0x080005b8                rn2483_drv_cfg_check_eeprom_config
+                0x08000648                rn2483_drv_cfg_erase_eeprom
+                0x080006b0                rn2483_drv_send_to_gateway
+                0x08000814                rn2483_drv_busy_handler
+                0x08000938                rn2483_drv_rx_packet_parser
+                0x08000a00                rn2483_drv_send_cmd_w_arg
+                0x08000a50                rn2483_drv_radio_tx
+                0x08000b3c                rn2483_drv_reboot
+ .text          0x08000b6c      0x938 ..\obj\stm32l1xx_rcc.o
+                0x08000b6c                RCC_DeInit
+                0x08000bc8                RCC_HSEConfig
+                0x08000bec                RCC_WaitForHSEStartUp
+                0x08000c3c                RCC_AdjustMSICalibrationValue
+                0x08000c5c                RCC_MSIRangeConfig
+                0x08000c94                RCC_MSICmd
+                0x08000cb4                RCC_AdjustHSICalibrationValue
+                0x08000cf0                RCC_HSICmd
+                0x08000d10                RCC_LSEConfig
+                0x08000d34                RCC_LSICmd
+                0x08000d54                RCC_PLLConfig
+                0x08000d88                RCC_PLLCmd
+                0x08000da8                RCC_ClockSecuritySystemCmd
+                0x08000dc8                RCC_LSEClockSecuritySystemCmd
+                0x08000de8                RCC_MCOConfig
+                0x08000e14                RCC_SYSCLKConfig
+                0x08000e4c                RCC_GetSYSCLKSource
+                0x08000e68                RCC_HCLKConfig
+                0x08000ea0                RCC_PCLK1Config
+                0x08000ed8                RCC_PCLK2Config
+                0x08000f10                RCC_GetClocksFreq
+                0x080010c4                RCC_RTCCLKConfig
+                0x08001128                RCC_RTCCLKCmd
+                0x08001148                RCC_RTCResetCmd
+                0x08001168                RCC_AHBPeriphClockCmd
+                0x080011a4                RCC_APB2PeriphClockCmd
+                0x080011e0                RCC_APB1PeriphClockCmd
+                0x0800121c                RCC_AHBPeriphResetCmd
+                0x08001258                RCC_APB2PeriphResetCmd
+                0x08001294                RCC_APB1PeriphResetCmd
+                0x080012d0                RCC_AHBPeriphClockLPModeCmd
+                0x0800130c                RCC_APB2PeriphClockLPModeCmd
+                0x08001348                RCC_APB1PeriphClockLPModeCmd
+                0x08001384                RCC_ITConfig
+                0x080013d0                RCC_GetFlagStatus
+                0x08001434                RCC_ClearFlag
+                0x08001450                RCC_GetITStatus
+                0x08001484                RCC_ClearITPendingBit
+ .text          0x080014a4      0x494 ..\obj\stm32l1xx_syscfg.o
+                0x080014a4                SYSCFG_DeInit
+                0x080014bc                SYSCFG_RIDeInit
+                0x080014f8                SYSCFG_MemoryRemapConfig
+                0x08001518                SYSCFG_GetBootMode
+                0x08001530                SYSCFG_USBPuCmd
+                0x08001568                SYSCFG_EXTILineConfig
+                0x080015ec                SYSCFG_RITIMSelect
+                0x08001624                SYSCFG_RITIMInputCaptureConfig
+                0x080016c4                SYSCFG_RIResistorConfig
+                0x08001700                SYSCFG_RIChannelSpeedConfig
+                0x0800173c                SYSCFG_RIIOSwitchConfig
+                0x080017b4                SYSCFG_RISwitchControlModeCmd
+                0x080017ec                SYSCFG_RIHysteresisConfig
+ .text          0x08001938      0x200 ..\obj\stm32l1xx_exti.o
+                0x08001938                EXTI_DeInit
+                0x08001968                EXTI_Init
+                0x08001a4c                EXTI_StructInit
+                0x08001a76                EXTI_GenerateSWInterrupt
+                0x08001a98                EXTI_GetFlagStatus
+                0x08001acc                EXTI_ClearFlag
+                0x08001ae8                EXTI_GetITStatus
+                0x08001b1c                EXTI_ClearITPendingBit
+ .text          0x08001b38      0x18c ..\obj\misc.o
+                0x08001b38                NVIC_PriorityGroupConfig
+                0x08001b5c                NVIC_Init
+                0x08001c20                NVIC_SetVectorTable
+                0x08001c4c                NVIC_SystemLPConfig
+                0x08001c8c                SysTick_CLKSourceConfig
+ .text          0x08001cc4      0x2e0 ..\obj\system_stm32l1xx.o
+                0x08001cc4                SystemInit
+                0x08001d2c                SystemCoreClockUpdate
+ .text          0x08001fa4     0x14ac ..\obj\stm32l1xx_rtc.o
+                0x08001fa4                RTC_DeInit
+                0x08002098                RTC_Init
+                0x08002110                RTC_StructInit
+                0x08002134                RTC_WriteProtectionCmd
+                0x08002168                RTC_EnterInitMode
+                0x080021d8                RTC_ExitInitMode
+                0x080021f4                RTC_WaitForSynchro
+                0x08002268                RTC_RefClockCmd
+                0x080022d0                RTC_BypassShadowCmd
+                0x0800231c                RTC_SetTime
+                0x08002430                RTC_TimeStructInit
+                0x0800245a                RTC_GetTime
+                0x080024fc                RTC_GetSubSecond
+                0x08002520                RTC_SetDate
+                0x08002640                RTC_DateStructInit
+                0x0800266a                RTC_GetDate
+                0x08002708                RTC_SetAlarm
+                0x08002840                RTC_AlarmStructInit
+                0x0800287c                RTC_GetAlarm
+                0x08002960                RTC_AlarmCmd
+                0x080029f8                RTC_AlarmSubSecondConfig
+                0x08002a48                RTC_GetAlarmSubSecond
+                0x08002a84                RTC_WakeUpClockConfig
+                0x08002ac4                RTC_SetWakeUpCounter
+                0x08002af4                RTC_GetWakeUpCounter
+                0x08002b0c                RTC_WakeUpCmd
+                0x08002b9c                RTC_DayLightSavingConfig
+                0x08002be4                RTC_GetStoreOperation
+                0x08002bfc                RTC_OutputConfig
+                0x08002c44                RTC_CoarseCalibConfig
+                0x08002c94                RTC_CoarseCalibCmd
+                0x08002cfc                RTC_CalibOutputCmd
+                0x08002d48                RTC_CalibOutputConfig
+                0x08002d88                RTC_SmoothCalibConfig
+                0x08002e0c                RTC_TimeStampCmd
+                0x08002e6c                RTC_GetTimeStamp
+                0x08002f8c                RTC_GetTimeStampSubSecond
+                0x08002fa0                RTC_TamperTriggerConfig
+                0x08002fe0                RTC_TamperCmd
+                0x0800301c                RTC_TamperFilterConfig
+                0x0800304c                RTC_TamperSamplingFreqConfig
+                0x0800307c                RTC_TamperPinsPrechargeDuration
+                0x080030ac                RTC_TimeStampOnTamperDetectionCmd
+                0x080030e4                RTC_TamperPullUpCmd
+                0x0800311c                RTC_WriteBackupRegister
+                0x08003150                RTC_ReadBackupRegister
+                0x0800317c                RTC_OutputTypeConfig
+                0x080031ac                RTC_SynchroShiftConfig
+                0x08003248                RTC_ITConfig
+                0x080032c0                RTC_GetFlagStatus
+                0x08003304                RTC_ClearFlag
+                0x08003338                RTC_GetITStatus
+                0x080033a8                RTC_ClearITPendingBit
+ .text          0x08003450      0x3f0 ..\obj\uart_drv.o
+                0x08003450                USART1_IRQHandler
+                0x08003550                USART2_IRQHandler
+                0x08003648                uart_drv_init
+                0x0800377c                uart_drv_transmit_char
+                0x080037aa                uart_drv_transmit_str
+                0x080037d8                USART_RX_HANDLER
+                0x08003808                CLEAR_STR
+ .text          0x08003840      0x2f4 ..\obj\conversions_app.o
+                0x08003840                convert_dectoascii
+                0x080038ac                convert_ds18b20_to_char
+                0x080039bc                CharToHex
+                0x08003a2c                check_hex_format
+ .text          0x08003b34      0x2cc ..\obj\logger_app.o
+                0x08003b34                logger_addr_eeprom_init
+                0x08003bb4                logger_write_data
+                0x08003c64                logger_quantity_of_data
+                0x08003cbc                logger_reset_last_addr
+                0x08003ce0                logger_clear_all_data
+                0x08003d90                logger_read_data
+ .text          0x08003e00      0x1f8 ..\obj\delay_drv.o
+                0x08003e00                delay_ms
+                0x08003e70                delay_20us
+                0x08003ee0                delay_ms_tim6_start
+                0x08003f34                delay_ms_tim6_stop_and_off
+                0x08003f6c                delay_ms_tim5_start
+                0x08003fc0                delay_ms_tim5_stop_and_off
+ .text          0x08003ff8       0x12 ..\obj\main.o
+                0x08003ff8                main
+ *fill*         0x0800400a        0x2 
+ .text          0x0800400c      0x8cc ..\obj\stm32l1xx_usart.o
+                0x0800400c                USART_DeInit
+                0x080040c4                USART_Init
+                0x0800422c                USART_StructInit
+                0x08004264                USART_ClockInit
+                0x080042b8                USART_ClockStructInit
+                0x080042e2                USART_Cmd
+                0x08004320                USART_SetPrescaler
+                0x08004358                USART_OverSampling8Cmd
+                0x0800439a                USART_OneBitMethodCmd
+                0x080043d8                USART_SendData
+                0x080043fa                USART_ReceiveData
+                0x08004418                USART_SetAddress
+                0x08004450                USART_ReceiverWakeUpCmd
+                0x0800448e                USART_WakeUpConfig
+                0x080044c4                USART_LINBreakDetectLengthConfig
+                0x080044fa                USART_LINCmd
+                0x08004538                USART_SendBreak
+                0x0800455a                USART_HalfDuplexCmd
+                0x08004598                USART_SetGuardTime
+                0x080045d2                USART_SmartCardCmd
+                0x08004610                USART_SmartCardNACKCmd
+                0x0800464e                USART_IrDAConfig
+                0x08004684                USART_IrDACmd
+                0x080046c2                USART_DMACmd
+                0x08004708                USART_ITConfig
+                0x08004796                USART_GetFlagStatus
+                0x080047cc                USART_ClearFlag
+                0x080047ec                USART_GetITStatus
+                0x080048a0                USART_ClearITPendingBit
+ .text          0x080048d8      0x224 ..\obj\gpio_drv.o
+                0x080048d8                gpio_drv_out_stdmode_init
+                0x080049b8                gpio_drv_set_state
+                0x080049ee                gpio_drv_in_stdmode_init
+                0x08004ad0                gpio_drv_read_pin_state
+ .text          0x08004afc      0x480 ..\obj\stm32l1xx_gpio.o
+                0x08004afc                GPIO_DeInit
+                0x08004bfc                GPIO_Init
+                0x08004d32                GPIO_StructInit
+                0x08004d64                GPIO_PinLockConfig
+                0x08004da6                GPIO_ReadInputDataBit
+                0x08004ddc                GPIO_ReadInputData
+                0x08004df4                GPIO_ReadOutputDataBit
+                0x08004e2a                GPIO_ReadOutputData
+                0x08004e42                GPIO_SetBits
+                0x08004e5e                GPIO_ResetBits
+                0x08004e7a                GPIO_WriteBit
+                0x08004ea8                GPIO_Write
+                0x08004ec4                GPIO_ToggleBits
+                0x08004eea                GPIO_PinAFConfig
+ .text          0x08004f7c       0xc8 ..\obj\eeprom_drv.o
+                0x08004f7c                write_eeprom_word
+                0x08004fbc                write_eeprom_halfw
+                0x08005000                write_eeprom_byte
+ .text          0x08005044      0x1e4 ..\obj\rtc_drv.o
+                0x08005044                rtc_drv_init
+                0x08005100                rtc_drv_enter_STDBY_MODE
+ .text          0x08005228      0x708 ..\obj\main_app_terminal.o
+                0x08005228                main_app_terminal_start
+                0x0800543c                wait_cmd
+                0x0800550c                radio_rx_packet_parser
+                0x080055a8                terminal_start
+                0x08005710                upload_data_start
+                0x08005900                data_finder
+ .text          0x08005930     0x1098 ..\obj\stm32l1xx_flash.o
+                0x08005930                FLASH_SetLatency
+                0x08005968                FLASH_PrefetchBufferCmd
+                0x080059a0                FLASH_ReadAccess64Cmd
+                0x080059d8                FLASH_SLEEPPowerDownCmd
+                0x08005a10                FLASH_Unlock
+                0x08005a40                FLASH_Lock
+                0x08005a5c                FLASH_ErasePage
+                0x08005acc                FLASH_FastProgramWord
+                0x08005b08                DATA_EEPROM_Unlock
+                0x08005b38                DATA_EEPROM_Lock
+                0x08005b54                DATA_EEPROM_FixedTimeProgramCmd
+                0x08005b8c                DATA_EEPROM_EraseByte
+                0x08005bba                DATA_EEPROM_EraseHalfWord
+                0x08005be8                DATA_EEPROM_EraseWord
+                0x08005c16                DATA_EEPROM_FastProgramByte
+                0x08005cc0                DATA_EEPROM_FastProgramHalfWord
+                0x08005d8c                DATA_EEPROM_FastProgramWord
+                0x08005dd8                DATA_EEPROM_ProgramByte
+                0x08005e70                DATA_EEPROM_ProgramHalfWord
+                0x08005f2a                DATA_EEPROM_ProgramWord
+                0x08005f66                FLASH_OB_Unlock
+                0x08005f98                FLASH_OB_Lock
+                0x08005fb4                FLASH_OB_Launch
+                0x08005fd0                FLASH_OB_WRPConfig
+                0x080060b8                FLASH_OB_WRP1Config
+                0x080061a0                FLASH_OB_WRP2Config
+                0x08006288                FLASH_OB_WRP3Config
+                0x08006380                FLASH_OB_RDPConfig
+                0x080063ec                FLASH_OB_PCROPConfig
+                0x080064d4                FLASH_OB_PCROP1Config
+                0x080065bc                FLASH_OB_PCROPSelectionConfig
+                0x0800662c                FLASH_OB_UserConfig
+                0x080066c0                FLASH_OB_BORConfig
+                0x08006730                FLASH_OB_BootConfig
+                0x080067a0                FLASH_OB_GetUser
+                0x080067b8                FLASH_OB_GetWRP
+                0x080067cc                FLASH_OB_GetWRP1
+                0x080067e4                FLASH_OB_GetWRP2
+                0x080067fc                FLASH_OB_GetWRP3
+                0x08006814                FLASH_OB_GetRDP
+                0x08006844                FLASH_OB_GetSPRMOD
+                0x08006880                FLASH_OB_GetBOR
+                0x080068a0                FLASH_ITConfig
+                0x080068dc                FLASH_GetFlagStatus
+                0x08006910                FLASH_ClearFlag
+                0x0800692c                FLASH_GetStatus
+                0x08006980                FLASH_WaitForLastOperation
+ .text          0x080069c8      0x2d8 ..\obj\stm32l1xx_pwr.o
+                0x080069c8                PWR_DeInit
+                0x080069e4                PWR_RTCAccessCmd
+                0x08006a04                PWR_PVDLevelConfig
+                0x08006a3c                PWR_PVDCmd
+                0x08006a5c                PWR_WakeUpPinCmd
+                0x08006a8c                PWR_FastWakeUpCmd
+                0x08006aac                PWR_UltraLowPowerCmd
+                0x08006acc                PWR_VoltageScalingConfig
+                0x08006b08                PWR_EnterLowPowerRunMode
+                0x08006b58                PWR_EnterSleepMode
+                0x08006bb4                PWR_EnterSTOPMode
+                0x08006c18                PWR_EnterSTANDBYMode
+                0x08006c48                PWR_GetFlagStatus
+                0x08006c7c                PWR_ClearFlag
+ .text          0x08006ca0      0x664 ..\obj\exti_drv.o
+                0x08006d24                exti_drv_gpio_interrupt_init
+                0x0800718c                EXTI0_IRQHandler
+                0x080071a6                EXTI1_IRQHandler
+                0x080071c0                EXTI2_IRQHandler
+                0x080071da                EXTI3_IRQHandler
+                0x080071f4                EXTI4_IRQHandler
+                0x0800720e                EXTI9_5_IRQHandler
+                0x08007278                EXTI15_10_IRQHandler
+ *(.text*)
+ .text.__libc_init_array
+                0x08007304       0x50 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-init.o)
+                0x08007304                __libc_init_array
+ .text.startup.register_fini
+                0x08007354       0x14 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x08007368        0xc c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-atexit.o)
+                0x08007368                atexit
+ .text.__libc_fini_array
+                0x08007374       0x34 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-fini.o)
+                0x08007374                __libc_fini_array
+ .text.__retarget_lock_acquire_recursive
+                0x080073a8        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+                0x080073a8                __retarget_lock_acquire_recursive
+ .text.__retarget_lock_release_recursive
+                0x080073ac        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+                0x080073ac                __retarget_lock_release_recursive
+ .text.__register_exitproc
+                0x080073b0       0xc4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__atexit.o)
+                0x080073b0                __register_exitproc
+ .text.Reset_Handler
+                0x08007474       0x48 ..\obj\startup_stm32l151xb.o
+                0x08007474                Reset_Handler
+ .text.Default_Handler
+                0x080074bc        0x2 ..\obj\startup_stm32l151xb.o
+                0x080074bc                RTC_Alarm_IRQHandler
+                0x080074bc                DebugMon_Handler
+                0x080074bc                HardFault_Handler
+                0x080074bc                TIM10_IRQHandler
+                0x080074bc                USB_HP_IRQHandler
+                0x080074bc                TIM6_IRQHandler
+                0x080074bc                SysTick_Handler
+                0x080074bc                PVD_IRQHandler
+                0x080074bc                PendSV_Handler
+                0x080074bc                NMI_Handler
+                0x080074bc                I2C2_EV_IRQHandler
+                0x080074bc                UsageFault_Handler
+                0x080074bc                SPI1_IRQHandler
+                0x080074bc                USB_FS_WKUP_IRQHandler
+                0x080074bc                DMA1_Channel4_IRQHandler
+                0x080074bc                ADC1_IRQHandler
+                0x080074bc                USART3_IRQHandler
+                0x080074bc                DMA1_Channel7_IRQHandler
+                0x080074bc                TIM4_IRQHandler
+                0x080074bc                I2C1_EV_IRQHandler
+                0x080074bc                DMA1_Channel6_IRQHandler
+                0x080074bc                TIM3_IRQHandler
+                0x080074bc                RCC_IRQHandler
+                0x080074bc                DMA1_Channel1_IRQHandler
+                0x080074bc                Default_Handler
+                0x080074bc                TIM7_IRQHandler
+                0x080074bc                TIM9_IRQHandler
+                0x080074bc                TAMPER_STAMP_IRQHandler
+                0x080074bc                RTC_WKUP_IRQHandler
+                0x080074bc                SPI2_IRQHandler
+                0x080074bc                MemManage_Handler
+                0x080074bc                SVC_Handler
+                0x080074bc                DMA1_Channel5_IRQHandler
+                0x080074bc                USB_LP_IRQHandler
+                0x080074bc                DMA1_Channel3_IRQHandler
+                0x080074bc                COMP_IRQHandler
+                0x080074bc                WWDG_IRQHandler
+                0x080074bc                TIM2_IRQHandler
+                0x080074bc                DAC_IRQHandler
+                0x080074bc                TIM11_IRQHandler
+                0x080074bc                I2C2_ER_IRQHandler
+                0x080074bc                DMA1_Channel2_IRQHandler
+                0x080074bc                FLASH_IRQHandler
+                0x080074bc                BusFault_Handler
+                0x080074bc                I2C1_ER_IRQHandler
+ *fill*         0x080074be        0x2 
+ .text.strlen   0x080074c0       0x5c c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+                0x080074c0                strlen
+ .text.critical_factorization
+                0x0800751c       0xb4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strstr.o)
+ .text.two_way_long_needle
+                0x080075d0      0x1fc c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strstr.o)
+ .text.strstr   0x080077cc      0x218 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strstr.o)
+                0x080077cc                strstr
+ .text.memchr   0x080079e4       0x8c c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memchr-stub.o)
+                0x080079e4                memchr
+ .text.memcmp   0x08007a70       0x60 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+                0x08007a70                memcmp
+ .text.strchr   0x08007ad0       0xe8 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strchr.o)
+                0x08007ad0                strchr
+ *(.glue_7)
+ .glue_7        0x08007bb8        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x08007bb8        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x08007bb8        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ *(.init)
+ .init          0x08007bb8        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+                0x08007bb8                _init
+ .init          0x08007bbc        0x8 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+ *(.fini)
+ .fini          0x08007bc4        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+                0x08007bc4                _fini
+ .fini          0x08007bc8        0x8 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+                0x08007bd0                . = ALIGN (0x4)
+                0x08007bd0                _etext = .
+
+.vfp11_veneer   0x08007bd0        0x0
+ .vfp11_veneer  0x08007bd0        0x0 linker stubs
+
+.v4_bx          0x08007bd0        0x0
+ .v4_bx         0x08007bd0        0x0 linker stubs
+
+.iplt           0x08007bd0        0x0
+ .iplt          0x08007bd0        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.rodata         0x08007bd0      0x36c
+                0x08007bd0                . = ALIGN (0x4)
+ *(.rodata)
+ .rodata        0x08007bd0      0x1c8 ..\obj\rn2483_drv.o
+ .rodata        0x08007d98      0x19e ..\obj\main_app_terminal.o
+ *(.rodata*)
+ *fill*         0x08007f36        0x2 
+ .rodata._global_impure_ptr
+                0x08007f38        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+                0x08007f38                _global_impure_ptr
+                0x08007f3c                . = ALIGN (0x4)
+
+.rel.dyn        0x08007f3c        0x0
+ .rel.iplt      0x08007f3c        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08007f3c        0x0
+                0x08007f3c                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08007f3c                __exidx_end = .
+
+.preinit_array  0x08007f3c        0x0
+                0x08007f3c                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x08007f3c                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x08007f3c        0x8
+                0x08007f3c                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x08007f3c        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x08007f40        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+                0x08007f44                PROVIDE (__init_array_end, .)
+
+.fini_array     0x08007f44        0x4
+                0x08007f44                PROVIDE (__fini_array_start, .)
+ *(SORT(.fini_array.*))
+ *(.fini_array*)
+ .fini_array    0x08007f44        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+                0x08007f48                PROVIDE (__fini_array_end, .)
+                0x08007f48                _sidata = LOADADDR (.data)
+
+.data           0x20000000      0x47c load address 0x08007f48
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000       0x1c ..\obj\stm32l1xx_rcc.o
+ .data          0x2000001c       0x20 ..\obj\system_stm32l1xx.o
+                0x2000001c                SystemCoreClock
+                0x20000020                PLLMulTable
+                0x2000002c                AHBPrescTable
+ .data          0x2000003c       0x10 ..\obj\conversions_app.o
+                0x2000003c                Buf_Hex
+ *(.data*)
+ *fill*         0x2000004c        0x4 
+ .data.impure_data
+                0x20000050      0x428 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-impure.o)
+ .data.__atexit_recursive_mutex
+                0x20000478        0x4 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-__call_atexit.o)
+                0x20000478                __atexit_recursive_mutex
+                0x2000047c                . = ALIGN (0x4)
+                0x2000047c                _edata = .
+
+.jcr            0x2000047c        0x0 load address 0x080083c4
+ .jcr           0x2000047c        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+
+.igot.plt       0x2000047c        0x0 load address 0x080083c4
+ .igot.plt      0x2000047c        0x0 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+                0x2000047c                . = ALIGN (0x4)
+
+.bss            0x2000047c      0x258 load address 0x080083c4
+                0x2000047c                _sbss = .
+                0x2000047c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000047c       0x1c c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x20000498       0x21 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a(lib_a-lock.o)
+                0x20000498                __lock___atexit_recursive_mutex
+                0x2000049c                __lock___arc4random_mutex
+                0x200004a0                __lock___env_recursive_mutex
+                0x200004a4                __lock___sinit_recursive_mutex
+                0x200004a8                __lock___malloc_recursive_mutex
+                0x200004ac                __lock___at_quick_exit_mutex
+                0x200004b0                __lock___dd_hash_mutex
+                0x200004b4                __lock___tz_mutex
+                0x200004b8                __lock___sfp_recursive_mutex
+ *fill*         0x200004b9        0x3 
+ COMMON         0x200004bc      0x218 ..\obj\terminal_app.o
+                0x200004bc                logger_data
+                0x200004c0                last_data_addr
+                0x200004c4                usart2RXData
+                0x200005c4                usart2_data_counter
+                0x200005c5                newdata
+                0x200005c8                rn2483_conn_cfg
+                0x200005cc                write_data_addr
+                0x200005d0                usart1_data_counter
+                0x200005d4                usart1RXData
+                0x200006d4                . = ALIGN (0x4)
+                0x200006d4                _ebss = .
+                0x200006d4                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x200006d4      0x604 load address 0x080083c4
+                0x200006d8                . = ALIGN (0x8)
+ *fill*         0x200006d4        0x4 
+                [!provide]                PROVIDE (end, .)
+                [!provide]                PROVIDE (_end, .)
+                0x200008d8                . = (. + _Min_Heap_Size)
+ *fill*         0x200006d8      0x200 
+                0x20000cd8                . = (. + _Min_Stack_Size)
+ *fill*         0x200008d8      0x400 
+                0x20000cd8                . = ALIGN (0x8)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x33 ..\obj\terminal_app.o
+ .ARM.attributes
+                0x0000007d       0x33 ..\obj\rn2483_drv.o
+ .ARM.attributes
+                0x000000b0       0x33 ..\obj\stm32l1xx_rcc.o
+ .ARM.attributes
+                0x000000e3       0x33 ..\obj\stm32l1xx_syscfg.o
+ .ARM.attributes
+                0x00000116       0x33 ..\obj\stm32l1xx_exti.o
+ .ARM.attributes
+                0x00000149       0x33 ..\obj\misc.o
+ .ARM.attributes
+                0x0000017c       0x33 ..\obj\system_stm32l1xx.o
+ .ARM.attributes
+                0x000001af       0x33 ..\obj\stm32l1xx_rtc.o
+ .ARM.attributes
+                0x000001e2       0x33 ..\obj\uart_drv.o
+ .ARM.attributes
+                0x00000215       0x33 ..\obj\conversions_app.o
+ .ARM.attributes
+                0x00000248       0x33 ..\obj\logger_app.o
+ .ARM.attributes
+                0x0000027b       0x33 ..\obj\delay_drv.o
+ .ARM.attributes
+                0x000002ae       0x33 ..\obj\main.o
+ .ARM.attributes
+                0x000002e1       0x33 ..\obj\stm32l1xx_usart.o
+ .ARM.attributes
+                0x00000314       0x33 ..\obj\gpio_drv.o
+ .ARM.attributes
+                0x00000347       0x33 ..\obj\stm32l1xx_gpio.o
+ .ARM.attributes
+                0x0000037a       0x33 ..\obj\eeprom_drv.o
+ .ARM.attributes
+                0x000003ad       0x21 ..\obj\startup_stm32l151xb.o
+ .ARM.attributes
+                0x000003ce       0x33 ..\obj\rtc_drv.o
+ .ARM.attributes
+                0x00000401       0x33 ..\obj\main_app_terminal.o
+ .ARM.attributes
+                0x00000434       0x33 ..\obj\stm32l1xx_flash.o
+ .ARM.attributes
+                0x00000467       0x33 ..\obj\stm32l1xx_pwr.o
+ .ARM.attributes
+                0x0000049a       0x33 ..\obj\exti_drv.o
+ .ARM.attributes
+                0x000004cd       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x000004fa       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strstr.o)
+ .ARM.attributes
+                0x00000527       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memchr-stub.o)
+ .ARM.attributes
+                0x00000554       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+ .ARM.attributes
+                0x00000581       0x2d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strchr.o)
+ .ARM.attributes
+                0x000005ae       0x1d c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+LOAD ..\obj\assembling_data_app.o
+LOAD ..\obj\stm32l1xx_aes_util.o
+LOAD ..\obj\stm32l1xx_tim.o
+LOAD ..\obj\terminal_app.o
+LOAD ..\obj\rn2483_drv.o
+LOAD ..\obj\stm32l1xx_rcc.o
+LOAD ..\obj\stm32l1xx_flash_ramfunc.o
+LOAD ..\obj\stm32l1xx_lcd.o
+LOAD ..\obj\stm32l1xx_syscfg.o
+LOAD ..\obj\stm32l1xx_exti.o
+LOAD ..\obj\misc.o
+LOAD ..\obj\stm32l1xx_dma.o
+LOAD ..\obj\stm32l1xx_iwdg.o
+LOAD ..\obj\system_stm32l1xx.o
+LOAD ..\obj\stm32l1xx_rtc.o
+LOAD ..\obj\uart_drv.o
+LOAD ..\obj\stm32l1xx_crc.o
+LOAD ..\obj\conversions_app.o
+LOAD ..\obj\main_app_mac.o
+LOAD ..\obj\logger_app.o
+LOAD ..\obj\delay_drv.o
+LOAD ..\obj\stm32l1xx_dbgmcu.o
+LOAD ..\obj\main.o
+LOAD ..\obj\stm32l1xx_opamp.o
+LOAD ..\obj\stm32l1xx_usart.o
+LOAD ..\obj\stm32l1xx_adc.o
+LOAD ..\obj\gpio_drv.o
+LOAD ..\obj\stm32l1xx_gpio.o
+LOAD ..\obj\eeprom_drv.o
+LOAD ..\obj\stm32l1xx_sdio.o
+LOAD ..\obj\stm32l1xx_spi.o
+LOAD ..\obj\startup_stm32l151xb.o
+LOAD ..\obj\rtc_drv.o
+LOAD ..\obj\main_app_terminal.o
+LOAD ..\obj\stm32l1xx_aes.o
+LOAD ..\obj\stm32l1xx_comp.o
+LOAD ..\obj\stm32l1xx_flash.o
+LOAD ..\obj\stm32l1xx_i2c.o
+LOAD ..\obj\stm32l1xx_pwr.o
+LOAD ..\obj\stm32l1xx_fsmc.o
+LOAD ..\obj\stm32l1xx_dac.o
+LOAD ..\obj\exti_drv.o
+LOAD ..\obj\stm32l1xx_wwdg.o
+START GROUP
+LOAD c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m\libgcc.a
+LOAD c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a
+LOAD c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libc.a
+END GROUP
+LOAD c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtend.o
+LOAD c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/thumb/v7-m/crtn.o
+OUTPUT(STM32L_FINAL_FIRMWARE.elf elf32-littlearm)
+
+.debug_info     0x00000000     0xbd0e
+ .debug_info    0x00000000      0xcc8 ..\obj\terminal_app.o
+ .debug_info    0x00000cc8     0x1043 ..\obj\rn2483_drv.o
+ .debug_info    0x00001d0b      0xa30 ..\obj\stm32l1xx_rcc.o
+ .debug_info    0x0000273b      0x504 ..\obj\stm32l1xx_syscfg.o
+ .debug_info    0x00002c3f      0x353 ..\obj\stm32l1xx_exti.o
+ .debug_info    0x00002f92      0x549 ..\obj\misc.o
+ .debug_info    0x000034db      0x578 ..\obj\system_stm32l1xx.o
+ .debug_info    0x00003a53     0x1142 ..\obj\stm32l1xx_rtc.o
+ .debug_info    0x00004b95      0xfad ..\obj\uart_drv.o
+ .debug_info    0x00005b42      0xaa3 ..\obj\conversions_app.o
+ .debug_info    0x000065e5      0x268 ..\obj\logger_app.o
+ .debug_info    0x0000684d      0x434 ..\obj\delay_drv.o
+ .debug_info    0x00006c81      0xadf ..\obj\main.o
+ .debug_info    0x00007760      0x9d1 ..\obj\stm32l1xx_usart.o
+ .debug_info    0x00008131      0x3ed ..\obj\gpio_drv.o
+ .debug_info    0x0000851e      0x659 ..\obj\stm32l1xx_gpio.o
+ .debug_info    0x00008b77      0x1d5 ..\obj\eeprom_drv.o
+ .debug_info    0x00008d4c       0xa4 ..\obj\startup_stm32l151xb.o
+ .debug_info    0x00008df0      0x2a5 ..\obj\rtc_drv.o
+ .debug_info    0x00009095     0x1088 ..\obj\main_app_terminal.o
+ .debug_info    0x0000a11d      0xe6b ..\obj\stm32l1xx_flash.o
+ .debug_info    0x0000af88      0x602 ..\obj\stm32l1xx_pwr.o
+ .debug_info    0x0000b58a      0x784 ..\obj\exti_drv.o
+
+.debug_abbrev   0x00000000     0x2635
+ .debug_abbrev  0x00000000      0x1f7 ..\obj\terminal_app.o
+ .debug_abbrev  0x000001f7      0x309 ..\obj\rn2483_drv.o
+ .debug_abbrev  0x00000500      0x1f6 ..\obj\stm32l1xx_rcc.o
+ .debug_abbrev  0x000006f6      0x189 ..\obj\stm32l1xx_syscfg.o
+ .debug_abbrev  0x0000087f      0x1ba ..\obj\stm32l1xx_exti.o
+ .debug_abbrev  0x00000a39      0x170 ..\obj\misc.o
+ .debug_abbrev  0x00000ba9      0x165 ..\obj\system_stm32l1xx.o
+ .debug_abbrev  0x00000d0e      0x1db ..\obj\stm32l1xx_rtc.o
+ .debug_abbrev  0x00000ee9      0x2a4 ..\obj\uart_drv.o
+ .debug_abbrev  0x0000118d      0x24b ..\obj\conversions_app.o
+ .debug_abbrev  0x000013d8      0x129 ..\obj\logger_app.o
+ .debug_abbrev  0x00001501       0xef ..\obj\delay_drv.o
+ .debug_abbrev  0x000015f0      0x1c1 ..\obj\main.o
+ .debug_abbrev  0x000017b1      0x180 ..\obj\stm32l1xx_usart.o
+ .debug_abbrev  0x00001931      0x169 ..\obj\gpio_drv.o
+ .debug_abbrev  0x00001a9a      0x1b6 ..\obj\stm32l1xx_gpio.o
+ .debug_abbrev  0x00001c50       0xc6 ..\obj\eeprom_drv.o
+ .debug_abbrev  0x00001d16       0x12 ..\obj\startup_stm32l151xb.o
+ .debug_abbrev  0x00001d28       0xeb ..\obj\rtc_drv.o
+ .debug_abbrev  0x00001e13      0x2a2 ..\obj\main_app_terminal.o
+ .debug_abbrev  0x000020b5      0x1f1 ..\obj\stm32l1xx_flash.o
+ .debug_abbrev  0x000022a6      0x1b0 ..\obj\stm32l1xx_pwr.o
+ .debug_abbrev  0x00002456      0x1df ..\obj\exti_drv.o
+
+.debug_aranges  0x00000000      0x2e8
+ .debug_aranges
+                0x00000000       0x20 ..\obj\terminal_app.o
+ .debug_aranges
+                0x00000020       0x20 ..\obj\rn2483_drv.o
+ .debug_aranges
+                0x00000040       0x20 ..\obj\stm32l1xx_rcc.o
+ .debug_aranges
+                0x00000060       0x20 ..\obj\stm32l1xx_syscfg.o
+ .debug_aranges
+                0x00000080       0x20 ..\obj\stm32l1xx_exti.o
+ .debug_aranges
+                0x000000a0       0x20 ..\obj\misc.o
+ .debug_aranges
+                0x000000c0       0x20 ..\obj\system_stm32l1xx.o
+ .debug_aranges
+                0x000000e0       0x20 ..\obj\stm32l1xx_rtc.o
+ .debug_aranges
+                0x00000100       0x20 ..\obj\uart_drv.o
+ .debug_aranges
+                0x00000120       0x20 ..\obj\conversions_app.o
+ .debug_aranges
+                0x00000140       0x20 ..\obj\logger_app.o
+ .debug_aranges
+                0x00000160       0x20 ..\obj\delay_drv.o
+ .debug_aranges
+                0x00000180       0x20 ..\obj\main.o
+ .debug_aranges
+                0x000001a0       0x20 ..\obj\stm32l1xx_usart.o
+ .debug_aranges
+                0x000001c0       0x20 ..\obj\gpio_drv.o
+ .debug_aranges
+                0x000001e0       0x20 ..\obj\stm32l1xx_gpio.o
+ .debug_aranges
+                0x00000200       0x20 ..\obj\eeprom_drv.o
+ .debug_aranges
+                0x00000220       0x28 ..\obj\startup_stm32l151xb.o
+ .debug_aranges
+                0x00000248       0x20 ..\obj\rtc_drv.o
+ .debug_aranges
+                0x00000268       0x20 ..\obj\main_app_terminal.o
+ .debug_aranges
+                0x00000288       0x20 ..\obj\stm32l1xx_flash.o
+ .debug_aranges
+                0x000002a8       0x20 ..\obj\stm32l1xx_pwr.o
+ .debug_aranges
+                0x000002c8       0x20 ..\obj\exti_drv.o
+
+.debug_line     0x00000000     0x4196
+ .debug_line    0x00000000      0x305 ..\obj\terminal_app.o
+ .debug_line    0x00000305      0x3fe ..\obj\rn2483_drv.o
+ .debug_line    0x00000703      0x37c ..\obj\stm32l1xx_rcc.o
+ .debug_line    0x00000a7f      0x2b9 ..\obj\stm32l1xx_syscfg.o
+ .debug_line    0x00000d38      0x27b ..\obj\stm32l1xx_exti.o
+ .debug_line    0x00000fb3      0x248 ..\obj\misc.o
+ .debug_line    0x000011fb      0x20b ..\obj\system_stm32l1xx.o
+ .debug_line    0x00001406      0x578 ..\obj\stm32l1xx_rtc.o
+ .debug_line    0x0000197e      0x329 ..\obj\uart_drv.o
+ .debug_line    0x00001ca7      0x285 ..\obj\conversions_app.o
+ .debug_line    0x00001f2c      0x23e ..\obj\logger_app.o
+ .debug_line    0x0000216a      0x1f5 ..\obj\delay_drv.o
+ .debug_line    0x0000235f      0x27c ..\obj\main.o
+ .debug_line    0x000025db      0x37f ..\obj\stm32l1xx_usart.o
+ .debug_line    0x0000295a      0x2b1 ..\obj\gpio_drv.o
+ .debug_line    0x00002c0b      0x2f4 ..\obj\stm32l1xx_gpio.o
+ .debug_line    0x00002eff      0x229 ..\obj\eeprom_drv.o
+ .debug_line    0x00003128       0xa4 ..\obj\startup_stm32l151xb.o
+ .debug_line    0x000031cc      0x245 ..\obj\rtc_drv.o
+ .debug_line    0x00003411      0x386 ..\obj\main_app_terminal.o
+ .debug_line    0x00003797      0x458 ..\obj\stm32l1xx_flash.o
+ .debug_line    0x00003bef      0x288 ..\obj\stm32l1xx_pwr.o
+ .debug_line    0x00003e77      0x31f ..\obj\exti_drv.o
+
+.debug_str      0x00000000     0x3889
+ .debug_str     0x00000000      0x711 ..\obj\terminal_app.o
+                                0x7ab (size before relaxing)
+ .debug_str     0x00000711      0x2b4 ..\obj\rn2483_drv.o
+                                0x947 (size before relaxing)
+ .debug_str     0x000009c5      0x55a ..\obj\stm32l1xx_rcc.o
+                                0x711 (size before relaxing)
+ .debug_str     0x00000f1f      0x2d1 ..\obj\stm32l1xx_syscfg.o
+                                0x470 (size before relaxing)
+ .debug_str     0x000011f0      0x1d2 ..\obj\stm32l1xx_exti.o
+                                0x34e (size before relaxing)
+ .debug_str     0x000013c2      0x22b ..\obj\misc.o
+                                0x3d0 (size before relaxing)
+ .debug_str     0x000015ed       0xd9 ..\obj\system_stm32l1xx.o
+                                0x34b (size before relaxing)
+ .debug_str     0x000016c6      0x97a ..\obj\stm32l1xx_rtc.o
+                                0xb4e (size before relaxing)
+ .debug_str     0x00002040      0x56c ..\obj\uart_drv.o
+                                0xc73 (size before relaxing)
+ .debug_str     0x000025ac       0xd6 ..\obj\conversions_app.o
+                                0x628 (size before relaxing)
+ .debug_str     0x00002682       0xb9 ..\obj\logger_app.o
+                                0x298 (size before relaxing)
+ .debug_str     0x0000273b       0xab ..\obj\delay_drv.o
+                                0x34b (size before relaxing)
+ .debug_str     0x000027e6       0x2f ..\obj\main.o
+                                0x6c6 (size before relaxing)
+ .debug_str     0x00002815      0x39e ..\obj\stm32l1xx_usart.o
+                                0x691 (size before relaxing)
+ .debug_str     0x00002bb3       0xa3 ..\obj\gpio_drv.o
+                                0x3d0 (size before relaxing)
+ .debug_str     0x00002c56      0x18d ..\obj\stm32l1xx_gpio.o
+                                0x4ca (size before relaxing)
+ .debug_str     0x00002de3       0xcc ..\obj\eeprom_drv.o
+                                0x237 (size before relaxing)
+ .debug_str     0x00002eaf       0xb7 ..\obj\rtc_drv.o
+                                0x337 (size before relaxing)
+ .debug_str     0x00002f66       0xb1 ..\obj\main_app_terminal.o
+                                0x900 (size before relaxing)
+ .debug_str     0x00003017      0x577 ..\obj\stm32l1xx_flash.o
+                                0x7e3 (size before relaxing)
+ .debug_str     0x0000358e      0x1c0 ..\obj\stm32l1xx_pwr.o
+                                0x3d3 (size before relaxing)
+ .debug_str     0x0000374e      0x13b ..\obj\exti_drv.o
+                                0x74a (size before relaxing)
+
+.comment        0x00000000       0x7f
+ .comment       0x00000000       0x7f ..\obj\terminal_app.o
+                                 0x80 (size before relaxing)
+ .comment       0x0000007f       0x80 ..\obj\rn2483_drv.o
+ .comment       0x0000007f       0x80 ..\obj\stm32l1xx_rcc.o
+ .comment       0x0000007f       0x80 ..\obj\stm32l1xx_syscfg.o
+ .comment       0x0000007f       0x80 ..\obj\stm32l1xx_exti.o
+ .comment       0x0000007f       0x80 ..\obj\misc.o
+ .comment       0x0000007f       0x80 ..\obj\system_stm32l1xx.o
+ .comment       0x0000007f       0x80 ..\obj\stm32l1xx_rtc.o
+ .comment       0x0000007f       0x80 ..\obj\uart_drv.o
+ .comment       0x0000007f       0x80 ..\obj\conversions_app.o
+ .comment       0x0000007f       0x80 ..\obj\logger_app.o
+ .comment       0x0000007f       0x80 ..\obj\delay_drv.o
+ .comment       0x0000007f       0x80 ..\obj\main.o
+ .comment       0x0000007f       0x80 ..\obj\stm32l1xx_usart.o
+ .comment       0x0000007f       0x80 ..\obj\gpio_drv.o
+ .comment       0x0000007f       0x80 ..\obj\stm32l1xx_gpio.o
+ .comment       0x0000007f       0x80 ..\obj\eeprom_drv.o
+ .comment       0x0000007f       0x80 ..\obj\rtc_drv.o
+ .comment       0x0000007f       0x80 ..\obj\main_app_terminal.o
+ .comment       0x0000007f       0x80 ..\obj\stm32l1xx_flash.o
+ .comment       0x0000007f       0x80 ..\obj\stm32l1xx_pwr.o
+ .comment       0x0000007f       0x80 ..\obj\exti_drv.o
+
+.debug_frame    0x00000000     0x2db4
+ .debug_frame   0x00000000       0x64 ..\obj\terminal_app.o
+ .debug_frame   0x00000064      0x1c8 ..\obj\rn2483_drv.o
+ .debug_frame   0x0000022c      0x5e4 ..\obj\stm32l1xx_rcc.o
+ .debug_frame   0x00000810      0x1fc ..\obj\stm32l1xx_syscfg.o
+ .debug_frame   0x00000a0c      0x148 ..\obj\stm32l1xx_exti.o
+ .debug_frame   0x00000b54       0xd8 ..\obj\misc.o
+ .debug_frame   0x00000c2c       0x7c ..\obj\system_stm32l1xx.o
+ .debug_frame   0x00000ca8      0x860 ..\obj\stm32l1xx_rtc.o
+ .debug_frame   0x00001508      0x10c ..\obj\uart_drv.o
+ .debug_frame   0x00001614       0xb0 ..\obj\conversions_app.o
+ .debug_frame   0x000016c4       0xe0 ..\obj\logger_app.o
+ .debug_frame   0x000017a4       0xf0 ..\obj\delay_drv.o
+ .debug_frame   0x00001894       0x2c ..\obj\main.o
+ .debug_frame   0x000018c0      0x490 ..\obj\stm32l1xx_usart.o
+ .debug_frame   0x00001d50       0xa0 ..\obj\gpio_drv.o
+ .debug_frame   0x00001df0      0x23c ..\obj\stm32l1xx_gpio.o
+ .debug_frame   0x0000202c       0x7c ..\obj\eeprom_drv.o
+ .debug_frame   0x000020a8       0x58 ..\obj\rtc_drv.o
+ .debug_frame   0x00002100       0xe8 ..\obj\main_app_terminal.o
+ .debug_frame   0x000021e8      0x69c ..\obj\stm32l1xx_flash.o
+ .debug_frame   0x00002884      0x22c ..\obj\stm32l1xx_pwr.o
+ .debug_frame   0x00002ab0      0x14c ..\obj\exti_drv.o
+ .debug_frame   0x00002bfc       0x20 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strlen-stub.o)
+ .debug_frame   0x00002c1c       0xd8 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strstr.o)
+ .debug_frame   0x00002cf4       0x34 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memchr-stub.o)
+ .debug_frame   0x00002d28       0x3c c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-memcmp.o)
+ .debug_frame   0x00002d64       0x50 c:/gnu tools arm embedded/6 2017-q2-update/bin/../lib/gcc/arm-none-eabi/6.3.1/../../../../arm-none-eabi/lib/thumb/v7-m\libg.a(lib_a-strchr.o)
+
+.debug_ranges   0x00000000       0x20
+ .debug_ranges  0x00000000       0x20 ..\obj\startup_stm32l151xb.o

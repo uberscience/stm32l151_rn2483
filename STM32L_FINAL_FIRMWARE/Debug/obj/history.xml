@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -g2 -Wall -O0 -c -DSTM32L151CBT6 -DSTM32L1XX_MD -DUSE_STDPERIPH_DRIVER -DUSE_FULL_ASSERT -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\components\coocox-master\cmsis_core -I..\..\..\..\..\..\..\..\..\pLORA -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\components\startup -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\STM32L1xx_StdPeriph_Driver\inc -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\components\coocox-master -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\drivers -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\STM32L1xx_StdPeriph_Driver -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\components\coocox-master\cmsis_core\source -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\components">
+      <target file="USART1.o" lastModified="160bbfd9579">
+         <source file="..\..\..\drivers\USART1.c" lastModified="160b84c1c5c"/>
+      </target>
+   </processor>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -g2 -Wall -O0 -c -DSTM32L151CBT6 -DSTM32L1XX_MD -DUSE_STDPERIPH_DRIVER -DUSE_FULL_ASSERT -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\components\coocox-master\cmsis_core -I..\..\..\..\..\..\..\..\..\pLORA -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\components\startup -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\STM32L1xx_StdPeriph_Driver\inc -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\drivers -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\components\coocox-master -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\STM32L1xx_StdPeriph_Driver -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\app -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\components\coocox-master\cmsis_core\source -I..\..\..\..\..\..\..\..\..\pLORA\STM32L_FINAL_FIRMWARE\components">
+      <target file="stm32l1xx_fsmc.o" lastModified="160c58e01c9">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_fsmc.c" lastModified="14cd7f96682"/>
+      </target>
+      <target file="exti_drv.o" lastModified="160c58df63f">
+         <source file="..\..\..\drivers\exti_drv.c" lastModified="160c01fb40a"/>
+      </target>
+      <target file="stm32l1xx_comp.o" lastModified="160c58db76a">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_comp.c" lastModified="14cd7f966a1"/>
+      </target>
+      <target file="misc.o" lastModified="160c58df844">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\misc.c" lastModified="14cd7f96663"/>
+      </target>
+      <target file="stm32l1xx_aes.o" lastModified="160c58dc839">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_aes.c" lastModified="14cd7f966e0"/>
+      </target>
+      <target file="rn2483_drv.o" lastModified="160f6982e9d">
+         <source file="..\..\..\drivers\rn2483_drv.c" lastModified="160f61f1ea9"/>
+      </target>
+      <target file="delay_drv.o" lastModified="160f69832d4">
+         <source file="..\..\..\drivers\delay_drv.c" lastModified="160f690f205"/>
+      </target>
+      <target file="one_wire_drv.o" lastModified="160e3f4e606">
+         <source file="..\..\..\drivers\one_wire_drv.c" lastModified="160e3f4b820"/>
+      </target>
+      <target file="gpio_drv.o" lastModified="160e3938cca">
+         <source file="..\..\..\drivers\gpio_drv.c" lastModified="160d4973e1c"/>
+      </target>
+      <target file="stm32l1xx_tim.o" lastModified="160c58dff61">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_tim.c" lastModified="14cd7f96682"/>
+      </target>
+      <target file="stm32l1xx_opamp.o" lastModified="160c58dc1ca">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_opamp.c" lastModified="14cd7f96663"/>
+      </target>
+      <target file="terminal_app.o" lastModified="160f6c0db74">
+         <source file="..\..\..\app\terminal_app.c" lastModified="160f6b737e9"/>
+      </target>
+      <target file="stm32l1xx_iwdg.o" lastModified="160c58defba">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_iwdg.c" lastModified="14cd7f96692"/>
+      </target>
+      <target file="stm32l1xx_exti.o" lastModified="160c58dca40">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_exti.c" lastModified="14cd7f966e0"/>
+      </target>
+      <target file="stm32l1xx_gpio.o" lastModified="160c58db98a">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_gpio.c" lastModified="14cd7f966a1"/>
+      </target>
+      <target file="stm32l1xx_usart.o" lastModified="160c58dedba">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_usart.c" lastModified="14cd7f966b1"/>
+      </target>
+      <target file="logger_app.o" lastModified="160f51c700e">
+         <source file="..\..\..\app\logger_app.c" lastModified="160f51c6902"/>
+      </target>
+      <target file="stm32l1xx_dbgmcu.o" lastModified="160c58de348">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_dbgmcu.c" lastModified="14cd7f966c0"/>
+      </target>
+      <target file="stm32l1xx_syscfg.o" lastModified="160c58de565">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_syscfg.c" lastModified="14cd7f966b1"/>
+      </target>
+      <target file="stm32l1xx_rtc.o" lastModified="160c58dfaac">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_rtc.c" lastModified="14cd7f96682"/>
+      </target>
+      <target file="uart_drv.o" lastModified="160e57de027">
+         <source file="..\..\..\drivers\uart_drv.c" lastModified="160d02bd1b1"/>
+      </target>
+      <target file="stm32l1xx_rcc.o" lastModified="160c58dd0a2">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_rcc.c" lastModified="14cd7f966c0"/>
+      </target>
+      <target file="ds18b20_drv.o" lastModified="160e400a6cc">
+         <source file="..\..\..\drivers\ds18b20_drv.c" lastModified="160e400386a"/>
+      </target>
+      <target file="stm32l1xx_dac.o" lastModified="160c58dc3e6">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_dac.c" lastModified="14cd7f96672"/>
+      </target>
+      <target file="stm32l1xx_pwr.o" lastModified="160c58dbfb8">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_pwr.c" lastModified="14cd7f966d0"/>
+      </target>
+      <target file="rtc_drv.o" lastModified="160f438ff86">
+         <source file="..\..\..\drivers\rtc_drv.c" lastModified="160f4304462"/>
+      </target>
+      <target file="stm32l1xx_wwdg.o" lastModified="160c58de772">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_wwdg.c" lastModified="14cd7f966d0"/>
+      </target>
+      <target file="stm32l1xx_flash.o" lastModified="160c58dc625">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_flash.c" lastModified="14cd7f96692"/>
+      </target>
+      <target file="stm32l1xx_adc.o" lastModified="160c58dd91c">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_adc.c" lastModified="14cd7f96672"/>
+      </target>
+      <target file="stm32l1xx_dma.o" lastModified="160c58de98c">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_dma.c" lastModified="14cd7f966b1"/>
+      </target>
+      <target file="stm32l1xx_aes_util.o" lastModified="160c58de13e">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_aes_util.c" lastModified="14cd7f966c0"/>
+      </target>
+      <target file="stm32l1xx_crc.o" lastModified="160c58dcc49">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_crc.c" lastModified="14cd7f966d0"/>
+      </target>
+      <target file="assembling_data_app.o" lastModified="160e67b5878">
+         <source file="..\..\..\app\assembling_data_app.c" lastModified="160e6627f48"/>
+      </target>
+      <target file="stm32l1xx_flash_ramfunc.o" lastModified="160c58dd4bb">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_flash_ramfunc.c" lastModified="14cd7f966e0"/>
+      </target>
+      <target file="onewire.o" lastModified="160e55e95eb">
+         <source file="..\..\..\drivers\onewire.c" lastModified="160e55e8ef1"/>
+      </target>
+      <target file="stm32l1xx_sdio.o" lastModified="160c58ddb42">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_sdio.c" lastModified="14cd7f966a1"/>
+      </target>
+      <target file="conversions_app.o" lastModified="160f537d2f2">
+         <source file="..\..\..\app\conversions_app.c" lastModified="160f53427a1"/>
+      </target>
+      <target file="startup_stm32l151xb.o" lastModified="160c58dffb3">
+         <source file="..\..\..\components\startup\startup_stm32l151xb.s" lastModified="160baa01568"/>
+      </target>
+      <target file="stm32l1xx_i2c.o" lastModified="160c58df423">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_i2c.c" lastModified="14cd7f96663"/>
+      </target>
+      <target file="system_stm32l1xx.o" lastModified="160e57cb8c4">
+         <source file="..\..\..\components\startup\system_stm32l1xx.c" lastModified="160e56cfe53"/>
+      </target>
+      <target file="stm32l1xx_spi.o" lastModified="160c58df1e9">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_spi.c" lastModified="14cd7f96692"/>
+      </target>
+      <target file="main.o" lastModified="160f6c0d957">
+         <source file="..\..\..\app\main.c" lastModified="160f6c0ae55"/>
+      </target>
+      <target file="config_app.o" lastModified="160d0326c39">
+         <source file="..\..\..\app\config_app.c" lastModified="160cfc5034f"/>
+      </target>
+      <target file="eeprom_drv.o" lastModified="160c58dce72">
+         <source file="..\..\..\drivers\eeprom_drv.c" lastModified="160bcb4ac55"/>
+      </target>
+      <target file="stm32l1xx_lcd.o" lastModified="160c58ddd5f">
+         <source file="..\..\..\STM32L1xx_StdPeriph_Driver\src\stm32l1xx_lcd.c" lastModified="14cd7f966c0"/>
+      </target>
+   </processor>
+</history>
