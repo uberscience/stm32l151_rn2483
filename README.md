@@ -2,5 +2,4 @@
 Project {#index}
 ===================
 
-
-This is an example project.
+source code for stm32l for working with LoRa module rn2483
